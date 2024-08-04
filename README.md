@@ -1,5 +1,5 @@
 This project implements a chatbot through the Gemini Pro LLM released by Google.
-The Gemini Pro LLM can be implemented into your code by generating an Application Programming Interface (API) key.
+The Gemini Pro LLM can be implemented into your code by generating an Application Programming Interface (API) key (You can use any other LLM like GPT-4 if you are willing to pay an access fee). 
 This chatbot can be used to answer any user's queries pertaining to the uploaded PDF file or URL. 
 The chatbot first reads the text in the user input and splits it into chunks.
 These chunks are then converted to numerical vectors and stored in the Facebook AI Similarity Search (FAISS) Database.
