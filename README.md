@@ -9,11 +9,19 @@ The query is matched with the most similar chunks from the database, and the out
 MODULES/LIBRARIES USED:
 
 requests
+
 streamlit
+
 google-generativeai
+
 python-dotenv
+
 langchain
+
 PyPDF2
+
 faiss-cpu
+
 langchain_google_genai
+
 langchain_community
